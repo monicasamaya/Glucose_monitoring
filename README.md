@@ -30,7 +30,7 @@ Diabetes affects over 500 million people globally and demands frequent blood glu
 ## Project Objectives
 
 <details>
-<summary>Click to expand</summary>
+<summary>Objectives</summary>
 
 - Design a **painless, non-invasive glucose monitor** using NIR light.  
 - Use **Arduino** to collect and transmit voltage data.  
