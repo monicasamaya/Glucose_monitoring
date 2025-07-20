@@ -28,7 +28,7 @@ running = True
 
 #Baseline Voltage Estimation
 def calibrate_baseline(duration=5):
-    print("🔧 Calibrating baseline... Please DO NOT place your finger.")
+    print("Calibrating baseline... Please DO NOT place your finger.")
     data = []
     ser.reset_input_buffer()
     start_time = time.time()
